@@ -1,0 +1,33 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#hader{
+	width:100%;	
+}
+#header > div{
+
+	background:#F1F1F1;
+	height:70px;
+	border-bottom:1px solid #EBEBEB;
+	padding-left:30px;
+	font-size:16px;
+	font-family: arial,sans-serif;
+}
+.content{
+	padding:20px;
+}
+
+.box{
+	width:160px;
+	height:50px;
+	padding-top:15px;
+	padding-bottom:25px;
+	text-align:center;
+	float:left;
+	margin:10px;
+	background:#F1F1F1;
+	font-family: arial,sans-serif;
+	color:#666666;
+	font-weight:bold;	
+}
